@@ -99,8 +99,8 @@ footer{
 .container{
     background-color: white;
 }
-.h3{
-   color: black;
+h3{
+   color: yellow;
     font-size:20px; 
     line-height:1.2; 
     
