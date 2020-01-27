@@ -64,6 +64,11 @@ body
     font-size:30px; 
     line-height:1.2;
 }
+#landing h4{
+   color: pink;
+    font-size:30px; 
+    line-height:1.2;
+}
 
 .padding{
     padding: 50px 0; 
@@ -108,12 +113,14 @@ footer{
 .h4{
   color: green;
 }
-h4
+
+.h4
 {
    color:orange;
     font-size:20px; 
     line-height:1.2; 
 }
+
 .h5{
    color:green;
     font-size:18px; 
