@@ -22,7 +22,9 @@ html,body{
 .navbar-default .navbar-nav li a:hover, .navbar-default .navbar-nav li a.active{
     color:#FFF;    
 }
-
+.img-circle {
+    border-radius: 50%;
+}
 body 
 { 
     margin:0;
