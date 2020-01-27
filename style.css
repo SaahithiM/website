@@ -1,4 +1,4 @@
-﻿@import url('https://fonts.googleapis.com/css?family=raleway');
+@import url('https://fonts.googleapis.com/css?family=raleway');
 @import url('https://fonts.googleapis.com/css?family=oswald');
 
 *{
@@ -98,16 +98,13 @@ footer{
 
 .container{
     background-color: white;
-
+}
+    
 .h3{
    color: navy;
     font-size:20px; 
     line-height:1.2; 
     
-}
-.h4
-{
-  color: green;
 }
 
 .h4
@@ -124,4 +121,4 @@ footer{
     
 }
 
-}
+
